@@ -100,7 +100,7 @@ img{
     padding-left: 75%;
 }
 
-@media screen and (min-width: 768px){
+@media screen and (min-width: 992px){
     .flexBox{
         display: flex;
         flex-direction: row;
