@@ -32,11 +32,12 @@ body{
     flex-direction: column;
     margin: 2rem 2rem;
     justify-content: center;
+    align-items: center;
 }
 
 .header{
     text-align: center;
-    width: 30rem;
+    max-width: 30rem;
     margin: auto;
 }
 h2{
